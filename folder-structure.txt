@@ -1,0 +1,97 @@
+.
+├── README.md
+├── app
+│   ├── Actions
+│   ├── Console
+│   ├── Enums
+│   ├── Events
+│   ├── Exceptions
+│   ├── Helper.php
+│   ├── Http
+│   ├── Jobs
+│   ├── Library
+│   ├── Listeners
+│   ├── Models
+│   ├── Notifications
+│   ├── Providers
+│   ├── Rules
+│   └── Services
+├── artisan
+├── bootstrap
+│   ├── app.php
+│   └── cache
+├── composer.json
+├── composer.lock
+├── config
+│   ├── app.php
+│   ├── auth.php
+│   ├── broadcasting.php
+│   ├── cache.php
+│   ├── captcha.php
+│   ├── cors.php
+│   ├── currencies.php
+│   ├── database.php
+│   ├── filesystems.php
+│   ├── flutterwave.php
+│   ├── hashing.php
+│   ├── image.php
+│   ├── laravel-ffmpeg.php
+│   ├── laravelpwa.php
+│   ├── livewire.php
+│   ├── logging.php
+│   ├── mail.php
+│   ├── path.php
+│   ├── paypal.php
+│   ├── queue.php
+│   ├── sanctum.php
+│   ├── services.php
+│   ├── session.php
+│   └── view.php
+├── database
+│   ├── factories
+│   ├── migrations
+│   └── seeders
+├── folder-structure.txt
+├── index.php
+├── lang
+│   ├── en
+│   └── es
+├── package.json
+├── phpunit.xml
+├── public
+│   ├── admin
+│   ├── bootstrap
+│   ├── css
+│   ├── images
+│   ├── img
+│   ├── img-category
+│   ├── js
+│   ├── plugins
+│   ├── svg
+│   ├── temp
+│   ├── uploads
+│   └── webfonts
+├── resources
+│   ├── css
+│   ├── js
+│   ├── sass
+│   └── views
+├── robots.txt
+├── routes
+│   ├── api.php
+│   ├── channels.php
+│   ├── console.php
+│   └── web.php
+├── serviceworker.js
+├── storage
+│   ├── app
+│   ├── framework
+│   └── logs
+├── tests
+│   ├── CreatesApplication.php
+│   ├── Feature
+│   ├── TestCase.php
+│   └── Unit
+└── vite.config.js
+
+52 directories, 43 files
